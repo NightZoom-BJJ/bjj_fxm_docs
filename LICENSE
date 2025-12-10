@@ -1,0 +1,55 @@
+# BJJ FX Manager - Proprietary Software License
+
+**Copyright © 2025 bjj_dev / NightZoom. All Rights Reserved.**
+
+## IMPORTANT NOTICE
+
+This software and its source code are proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software, via any medium, is strictly prohibited.
+
+## License Grant
+
+This software is licensed, not sold. Subject to payment of applicable license fees and compliance with the terms of this agreement, bjj_dev / NightZoom grants you a limited, non-exclusive, non-transferable license to use BJJ FX Manager for its intended purpose.
+
+## Restrictions
+
+You may NOT:
+
+1. Copy, modify, or create derivative works of the software
+2. Reverse engineer, decompile, or disassemble the software
+3. Remove or alter any proprietary notices or labels
+4. Distribute, sublicense, rent, lease, or lend the software
+5. Use the software to provide services to third parties without explicit written permission
+6. Share your license key or access credentials with others
+7. Circumvent any license enforcement mechanisms
+
+## Intellectual Property
+
+All intellectual property rights in and to BJJ FX Manager, including but not limited to copyrights, patents, trademarks, and trade secrets, are and shall remain the exclusive property of bjj_dev / NightZoom.
+
+## Termination
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must destroy all copies of the software in your possession.
+
+## Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Limitation of Liability
+
+IN NO EVENT SHALL bjj_dev / NightZoom BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE.
+
+## Documentation License
+
+The documentation files located in the `docs/` directory are licensed separately under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See `docs/LICENSE.md` for details.
+
+## Contact
+
+For licensing inquiries, please contact:
+- Website: https://nightzoom.net
+- Repository: https://github.com/NightZoom-BJJ/bjj_fxm
+
+---
+
+**BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT INSTALL, COPY, OR USE THE SOFTWARE.**
+
+Last Updated: December 2025
